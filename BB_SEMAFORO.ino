@@ -17,20 +17,23 @@ void setup()
 
 void loop()
 {
-  digitalWrite(vermelho, HIGH);         //LED vermelho ligado
+  digitalWrite(vermelho, LOW);          //LED vermelho apagado
   digitalWrite(amarelo, LOW);           //LED amarelo apagado
-  digitalWrite(verde, LOW);             //LED verde apagado
-  delay(4000);                          //Espera 4 segundos
-
-  digitalWrite(vermelho, HIGH);         //LED vermelho apagado
-  digitalWrite(amarelo, LOW);           //LED amarelo ligado
-  digitalWrite(verde, LOW);             //LED verde apagado
-  delay(2000);                          //Espera 2 segundos
-
-  digitalWrite(vermelho, HIGH);         //LED vermelho apagado
-  digitalWrite(amarelo, LOW);           //LED amarelo apagado
-  digitalWrite(verde, LOW);             //LED verde ligado
+  digitalWrite(verde, HIGH);            //LED verde ligado
   delay(3000);                          //Espera 3 segundos
   
+  digitalWrite(vermelho, LOW);           //LED vermelho apagado
+  digitalWrite(amarelo, HIGH);           //LED amarelo ligado
+  digitalWrite(verde, LOW);              //LED verde apagado
+  delay(2000);                           //Espera 2 segundos
+  
+  digitalWrite(vermelho, HIGH);          //LED vermelho ligado
+  digitalWrite(amarelo, LOW);            //LED amarelo apagado
+  digitalWrite(verde, LOW);              //LED verde apagado
+  delay(4000);                           //Espera 4 segundos
+
+
+
+
   
 }
