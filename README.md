@@ -14,8 +14,9 @@ Desenvolver um semáforo utilizando LED's e uma placa Arduino
 - Jumpers
 
 [Esquemático do Projeto](#descrição-do-projeto)
-![BoarbBox - Semáforo - Arduino](https://user-images.githubusercontent.com/111764399/185991509-9d589859-35f8-47a2-a7e3-221f859185db.png)
+![Brave Bruticus-Rottis](https://user-images.githubusercontent.com/111764399/185994301-028f2932-bf33-46be-b77e-8a8e4b8471bd.png)
+
 
 [Link Simulação no Tinkercad](#descrição-do-projeto)
 
-https://www.tinkercad.com/things/eBkcnRtKsQF
+https://www.tinkercad.com/things/5vKSTPD2aaz
